@@ -1,0 +1,7 @@
+Do this:On the terminal
+	source virtual/bin/activate
+	pip install -r requirements.txt
+	python manage.py runserver
+
+Development in progress, may possibly arrive late.
+
